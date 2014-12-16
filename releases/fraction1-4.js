@@ -375,6 +375,3 @@ Fraction.primeFactors = function(n)
     }
     return factors;                  // Return the prime factors
 }
-
-test= test= new Fraction(1,12).add(new Fraction(-5,4));
-console.log(test);
